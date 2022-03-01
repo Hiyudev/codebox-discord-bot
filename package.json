@@ -1,0 +1,18 @@
+{
+  "name": "codebox",
+  "version": "1.0.0",
+  "description": "Simple discord bot for beginner developers",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Yuki2dev",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.27.3",
+    "discord.js": "^13.6.0",
+    "fast-xml-parser": "^4.0.3",
+    "flexsearch": "^0.7.21",
+    "node-fetch": "2",
+    "zlib": "^1.0.5"
+  }
+}
