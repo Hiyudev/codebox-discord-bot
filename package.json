@@ -5,6 +5,11 @@
   "main": "index.js",
   "license": "MIT",
   "author": "Yuki2dev",
+  "scripts": {
+    "start": "node bot",
+    "dev": "nodemon bot",
+    "setup": "node setup"
+  },
   "dependencies": {
     "@discordjs/builders": "^0.12.0",
     "@discordjs/rest": "^0.3.0",
@@ -14,5 +19,8 @@
     "flexsearch": "^0.7.21",
     "node-fetch": "2",
     "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }
