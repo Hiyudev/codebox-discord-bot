@@ -58,11 +58,11 @@ CLIENTID = <CLIENT_ID>
 
 1. On your discord server, type `/mdn` and will autocomplete.
 
-<img src="./github/Preview.png" alt="Discord command"></a>
+<img src="./github/Preview.PNG" alt="Discord command"></a>
 
 2. Type a query and will show up the results.
 
-<img src="./github/Embed.png" alt="Discord embed"></a>
+<img src="./github/Embed.PNG" alt="Discord embed"></a>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
