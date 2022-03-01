@@ -1,38 +1,21 @@
 {
-  "name": "codebox",
+  "name": "nodejs-16",
   "version": "1.0.0",
-  "description": "Simple discord bot for beginner developers",
+  "description": "",
   "main": "index.js",
-  "license": "MIT",
-  "author": "Yuki2dev",
   "scripts": {
-    "start": "node bot",
-    "dev": "nodemon bot",
-    "setup": "node setup"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "@discordjs/builders": "^0.12.0",
-    "@discordjs/rest": "^0.3.0",
-    "discord-api-types": "^0.27.3",
     "discord.js": "^13.6.0",
-    "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "fast-xml-parser": "^4.0.3",
     "flexsearch": "^0.7.21",
-    "node-fetch": "2",
-    "zlib": "^1.0.5"
-  },
-  "devDependencies": {
-    "node": "^16.13.2",
-    "nodemon": "^2.0.15"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KeysHD/codebox.git"
-  },
-  "bugs": {
-    "url": "https://github.com/KeysHD/codebox/issues"
-  },
-  "homepage": "https://github.com/KeysHD/codebox#readme",
-  "keywords": []
+    "node-fetch": "2"
+  }
 }
