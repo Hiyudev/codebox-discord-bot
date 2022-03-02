@@ -72,4 +72,4 @@ CLIENTID = <CLIENT_ID>
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Yuki2dev](https://github.com/Yuki2dev)
+- [@Yuki2dev](https://github.com/KeysHD)
